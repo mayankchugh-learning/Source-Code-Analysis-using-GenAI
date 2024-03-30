@@ -162,3 +162,5 @@ research/test_repo/*
 research/data/*
 research/data/
 research/test_repo/
+db
+repo/
